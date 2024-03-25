@@ -1,0 +1,17 @@
+# Problem 04: Math Operations
+
+You are given a set of functions that perform basic mathematical operations on two numbers:
+addition  : +
+
+subtraction : - 
+
+multiplication: * 
+
+division, : /
+
+exponentiation, : power ^
+
+factorial : !
+Each function takes two numbers as input and returns the result of the operation.
+You also have two variables a and b initialized with values.
+Your task is to write a function named eval that takes these two numbers (a and b) as input and returns an object containing the results of all the mathematical operations provided by the given functions.
